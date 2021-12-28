@@ -9,6 +9,7 @@ I refactored the code as instructed to run faster and added a new button linked 
 #Results
 
 As shown below, the refactored code ran faster than the code from class.
+https://github.com/mbattaglia170/Stock-Analysis/blob/main/VBA_Challenge_2017.png 
 Based off of this, we can conclude that the refactored code is more efficient.
 We are able to quickly analyze stocks and invest as soon as possible.
 
